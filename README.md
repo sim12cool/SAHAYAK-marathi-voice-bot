@@ -1,7 +1,7 @@
 # SAHAYAK-marathi-voice-bot
 PS Title : Marathi Language support in smartphone pluggable library
 
-PS Description : Request for a voice bot that understands user requests in Marathi. The library of user request will be provided and updated with time. Example of user request : Book Appointment with Dr Joshi at 5pm. The voice bot can provide responses.
+Sahayak- The healthcare voice bot is a plugin on top of the ehealth Care system that is already developed by NCORD Health. The voice bot is used to interact with the users in voice format. This benefits the rural areas where the knowledge to use smartphone is limited. 
 
 We tried to cover the below mentioned use cases.
 
