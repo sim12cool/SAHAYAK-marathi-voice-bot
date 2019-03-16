@@ -13,7 +13,9 @@ HAVE A DOUBT?- It deals with simple questions that the user might want to ask th
 
 TEST AN APPOINTMENT - The user can choose from the given tests and after that he/she has to select a doctor and the appointment is booked.
 
-CALL AN AMBULANCE - Access the live location of user and the ambulance is called accordingly
+CALL AN AMBULANCE - Access the live location of user and the ambulance is called accordingly.
+
+
 This app currently runs only on Android Pie 9.0 To achieve this the different components used are: -
 
 1.Google Cloud Translation API – for converting the Marathi requests into English for processing.
